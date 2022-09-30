@@ -1,16 +1,7 @@
-# firebaseflttr
+# Firestore connectivity with flutter app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1664565933](https://user-images.githubusercontent.com/48881290/193343095-cfbd49b5-920d-4d08-b553-70b3bd0c3cee.png)
+<br/>
+<br/>
+<br/>
+![Adsız](https://user-images.githubusercontent.com/48881290/193343356-0817b48f-e1e8-4eba-986a-f41b83058da5.png)
