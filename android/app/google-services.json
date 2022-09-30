@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "355033391533",
+    "project_id": "flutter-firebase-ders-1cb55",
+    "storage_bucket": "flutter-firebase-ders-1cb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355033391533:android:f1f9e870448d936e094124",
+        "android_client_info": {
+          "package_name": "devic.firebaseflttr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355033391533-ggffn3v237iqkotccvhqn0thk1ohkcpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devic.firebaseflttr",
+            "certificate_hash": "015bf70ffe8449b59c7b7bb8275184b2bba52dfd"
+          }
+        },
+        {
+          "client_id": "355033391533-7a6t8237m7spdoscfjqst2eg4bm6m5jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrf0WauhVv5ff7oPYciFBcTLktlEt2Ycc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355033391533-7a6t8237m7spdoscfjqst2eg4bm6m5jd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355033391533-ag2j2hmaqkr8rs6651ugpevqvm9r7vkv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "devic.firebaseflttr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
